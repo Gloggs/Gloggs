@@ -4,6 +4,14 @@ Software developer in Manchester, UK. First-Class BSc in Computer Science (Manch
 
 I build web applications, CRM automation and AI tools that remove manual work. I like systems where nothing gets lost: every input is checked, tracked and ends somewhere useful.
 
+## How I got here
+
+I wanted to understand computers from the foundations up, so I started with the hardware. During my degree I built my first PC from components: a Ryzen 9 5900X with an RTX 3090 (24GB), 64GB of memory, liquid cooling and 3TB of NVMe storage. It runs at 60°C or below under load, and it is still my development workstation. [See the build](https://uk.pcpartpicker.com/b/2F8J7P).
+
+A month later I tested what I had learned. With no guide, I built a second machine for about £400 from used and spare parts, working out for myself what was compatible and where the limits were. It runs games at 1080p at 170 to 200 frames a second. [See the budget build](https://uk.pcpartpicker.com/b/R2mkcf).
+
+Knowing how the machine works underneath is what drew me further into computer science and into writing software. That first workstation now runs the AI models behind my Assessment Record Generator, so recordings never have to leave the machine.
+
 ## Projects
 
 ### Assessment Record Generator
