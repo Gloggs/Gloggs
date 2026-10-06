@@ -52,8 +52,8 @@ Six write-ups from my BSc (Hons) Computer Science at Manchester Metropolitan Uni
 
 ## Skills
 
-- **Languages:** Python, JavaScript, SQL, HTML, CSS
-- **Frameworks and tools:** React, Next.js, Node.js, Streamlit, PostgreSQL, SQLite, pytest, GitHub Actions
+- **Languages:** Python, JavaScript, C#, SQL, HTML, CSS
+- **Frameworks and tools:** React, Next.js, Node.js, .NET 8 MAUI, XAML, Streamlit, PostgreSQL, SQLite, pytest, GitHub Actions
 - **Platforms:** Cloudflare Workers, Vercel, Zoho CRM, Microsoft 365
 - **Practice:** automated testing, security checks on user input, technical documentation, AI-assisted development with review and testing before release
 
