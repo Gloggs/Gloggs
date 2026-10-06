@@ -44,6 +44,12 @@ A complete system for a community organisation, built as a freelance client proj
 
 The code belongs to the client and is private.
 
+### University projects
+
+Six write-ups from my BSc (Hons) Computer Science at Manchester Metropolitan University, covering machine learning, a full-stack dissertation, a cross-platform mobile app, network design and more. Each one explains the brief, what I built and what I would do differently.
+
+[See all university projects](https://github.com/Gloggs/university-projects)
+
 ## Skills
 
 - **Languages:** Python, JavaScript, SQL, HTML, CSS
