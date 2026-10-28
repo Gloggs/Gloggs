@@ -25,6 +25,16 @@ A Python web app that turns two audio recordings of a spoken English assessment 
 
 The code is private because it was built around real assessment work. Read how it works here: [assessment-record-generator](https://github.com/Gloggs/assessment-record-generator). I am happy to walk through the code in an interview.
 
+### Here.
+
+A phone-first class register for teachers and tutors. It began as my dissertation project, and I rebuilt it with private accounts, a security review, tests and a Zoho CRM integration.
+
+- Next.js, React, PostgreSQL (Neon), Drizzle ORM, Kinde authentication, Vercel, GitHub Actions
+- Takes a register in about ten seconds, flags persistent absence below 90%, and exports reports
+- Each user connects their own Zoho CRM through OAuth, with keys encrypted with AES-256-GCM: import students from Contacts, send attendance back as notes or fields, and turn suggested check-ins into Zoho tasks only after approval
+- About 8,000 lines of code, 32 API routes and 37 automated tests run on every change
+- Live at [here.guilduk.com](https://here.guilduk.com), with a demo that needs no sign-up. Code: [Gloggs/here](https://github.com/Gloggs/here)
+
 ### Family Health Tracker
 
 A full-stack web app my family of seven uses every day to track workouts, sleep, meals, mood and goals. Each person controls what the others can see.
@@ -54,7 +64,7 @@ Six write-ups from my BSc (Hons) Computer Science at Manchester Metropolitan Uni
 
 - **Languages:** Python, JavaScript, C#, SQL, HTML, CSS
 - **Frameworks and tools:** React, Next.js, Node.js, .NET 8 MAUI, XAML, Streamlit, PostgreSQL, SQLite, pytest, GitHub Actions
-- **Platforms:** Cloudflare Workers, Vercel, Zoho CRM, Microsoft 365
+- **Platforms:** Cloudflare Workers, Vercel, Zoho CRM (including its REST API and OAuth), Microsoft 365
 - **Practice:** automated testing, security checks on user input, technical documentation, AI-assisted development with review and testing before release
 
 ## Contact
