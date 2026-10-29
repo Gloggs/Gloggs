@@ -19,7 +19,9 @@ Knowing how the machine works underneath is what drew me further into computer s
 A Python web app that turns two audio recordings of a spoken English assessment into a drafted assessment record for each learner, ready for the assessor to review and edit.
 
 - Python, Streamlit, Whisper, pyannote, Claude API, SQLite
-- About 21,000 lines of application code and 330 automated tests
+- About 21,500 lines of application code and over 500 automated tests
+- Security reviewed with an AI-assisted audit, then fixed: no default PIN, a sign-in lockout, a local-only server and full data erasure
+- Governance built in: before any draft is generated, the assessor confirms they listened to the recordings, checks every learner's voice and writes down what happened on the day. They approve each record before the batch download.
 - Linting and tests run on every change through GitHub Actions
 - Cut a 4 hour task to about 30 minutes
 
