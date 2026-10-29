@@ -35,13 +35,16 @@ A phone-first class register for teachers and tutors. It began as my dissertatio
 - About 8,000 lines of code, 32 API routes and 37 automated tests run on every change
 - Live at [here.guilduk.com](https://here.guilduk.com), with a demo that needs no sign-up. Code: [Gloggs/here](https://github.com/Gloggs/here)
 
-### Family Health Tracker
+### Health
 
-A full-stack web app my family of seven uses every day to track workouts, sleep, meals, mood and goals. Each person controls what the others can see.
+A health and fitness tracker my family of seven uses every day: sleep, water, weight, workouts, meals and mood. The first version worked on paper but was slow in daily use, so I rebuilt it to log anything in a tap or two, keep every screen one tap or one search away, and keep each person's data private unless they choose to share it.
 
-- Next.js, React, PostgreSQL (Neon), Drizzle ORM, Kinde authentication, Vercel
-- 8 per-person privacy settings
-- Live at [gym-app-iota-taupe.vercel.app](https://gym-app-iota-taupe.vercel.app)
+- Next.js, React, PostgreSQL (Neon), Drizzle ORM, Kinde authentication, Vercel, GitHub Actions
+- Multi-family by design: every record belongs to a family, and each person has 8 settings for what the others can see
+- One log sheet for everything, with your usual amounts first, and Undo instead of "are you sure"
+- Installable on a phone from the browser, light and dark modes
+- About 26,000 lines of code, 38 API routes and 8 versioned database migrations; tests and a production build run on every change
+- Live at [health.guilduk.com](https://health.guilduk.com), with a demo on sample data that needs no sign-up. Code: [Gloggs/health](https://github.com/Gloggs/health)
 
 ### Abbi Community UK website and contacts system
 
