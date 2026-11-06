@@ -22,9 +22,8 @@ The code is private because it is the company's own system. I am happy to walk t
 
 ### Abbi Community UK: website and contacts system
 
-The first client project: a 20-page website, 8 forms, live chat, Zoho CRM, SalesIQ, Desk and domain email with SPF, DKIM and DMARC, delivered with user guides for the people who run it.
+The first client project, live and in its final stage: a 20-page website, 8 forms, live chat, Zoho CRM, SalesIQ, Desk and domain email with SPF, DKIM and DMARC, with user guides for the people who run it. Final images and search engine set-up are next.
 
-- 100 out of 100 on Google Lighthouse mobile tests, grade A for security headers
 - Live at [abbicommunityuk.com](https://abbicommunityuk.com)
 
 The code belongs to the client and is private.
